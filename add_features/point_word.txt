@@ -1,0 +1,143 @@
+your dad	person
+at the	facility
+-	general
+Happy	other
+. Pretty	facility
+of the	other
+(	general
+,	general
+to	general
+has	person
+dad	person
+@	facility#sportsteam
+his	other
+me and	person
+beat	geo-loc
+back in	geo-loc
+Favorite	company
+go to	facility#geo-loc
+says atheists	person
+joins	company#person
+in the	geo-loc
+years after	person
+--	person
+to the	other
+, haha	other
+50	company
+with Classified	facility
+Go	sportsteam
+day in	geo-loc
+be at	facility
+??	geo-loc
+says	other#person
+concert	person
+for a	geo-loc
+April 14th	musicartist
+here in	geo-loc
+video	company
+will be	person
+for	general
+Today 's	other
+On	other
+then	geo-loc#person
+;	geo-loc
+?	geo-loc#person
+in stores	other
+- "	other
+'s new	person
+meet	person
+group	musicartist
+&amp;	musicartist#person
+by	general
+AND	company
+on	general
+about	person
+later tonight	company
+Videos	company
+of	general
+|	person
+think	person
+, the	person
+campaign	person
+if he	person
+tonight .	facility
+When	person
+vs .	sportsteam
+tonight at	facility
+Pre Order	product
+video --	company
+today .	geo-loc
+tomorrow	general
+"	general
+from	general
+takes	person
+..	geo-loc
+support	musicartist
+party at	geo-loc
+next	geo-loc
+TONIGHT	facility
+going to	geo-loc
+:	general
+was	person
+today	general
+: When	person
+| TheDeAndreWay	person
+that	person
+at a	person
+but	other
+to "	other
+took "	person
+Saturday -	geo-loc
+with	general
+this	geo-loc
+More for	other
+&quot;	other
+will	other#person
+v	sportsteam
+- 10	company
+tomorrow in	geo-loc
+my	product
+and	general
+...	general
+is	general
+for the	geo-loc#other
+arrived in	geo-loc
+enlists	company
+tonight	general
+live on	company
+vs	sportsteam
+at	general
+in	general
+excited for	other
+be in	geo-loc
+if	person
+!	general
+)	company#geo-loc
+50 years	company
+Videos This	company
+when	person
+gets a	person
+http://bit.ly/cds8Pd ;	geo-loc
+party	geo-loc
+gets	person
+=	facility
+was born	person
+'s	general
+may	person
+after	geo-loc#person
+April	musicartist
+VS	sportsteam
+AT	facility
+concert ,	person
+The	other
+Order	product
+a	general
+'	general
+back to	geo-loc
+later	company
+Our Favorite	company
+takes 2	person
+tomorrow with	geo-loc
+and support	musicartist
+the	general
+, your	person
